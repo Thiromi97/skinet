@@ -1,0 +1,5 @@
+P:\projects\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+P:\projects\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+P:\projects\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+P:\projects\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+P:\projects\skinet\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
